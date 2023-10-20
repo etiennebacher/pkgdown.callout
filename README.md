@@ -1,25 +1,12 @@
 
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # pkgdown.callout
 
-<!-- badges: start -->
-<!-- badges: end -->
+> \[!NOTE\] Highlights information that users should take into account,
+> even when skimming.
 
-The goal of pkgdown.callout is to ...
+> \[!IMPORTANT\] Crucial information necessary for users to succeed.
 
-## Installation
-
-You can install the development version of pkgdown.callout like so:
-
-``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
-```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(pkgdown.callout)
-## basic example code
-```
-
+> \[!WARNING\] Critical content demanding immediate user attention due
+> to potential risks.
