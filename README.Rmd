@@ -1,4 +1,8 @@
+---
+output: github_document
+---
 
+```{=gfm}
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
@@ -7,3 +11,5 @@
 
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
+```
+
